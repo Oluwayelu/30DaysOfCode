@@ -13,7 +13,7 @@ Created on Fri May 1 11:06:40AM 2020
 
 const divisor = num => {
     var div = 0
-    for(var i = 1; i < num; i++) {
+    for(var i = 1; i <= num/2; i++) {
         if(num%i == 0){
             div += 1
         }
