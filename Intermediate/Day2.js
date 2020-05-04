@@ -12,7 +12,7 @@ Created on Sat May 2 7:34:23PM 2020
 @author: Oluwayelu Ifeoluwa
 */
 
-const singleToStupor = num => {
+const singleToStupor = num => { 
     if(num.toString().length === 1) {
         return 0
     }

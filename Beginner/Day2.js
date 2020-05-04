@@ -16,7 +16,7 @@ Example:
 myFunction('Howdy')===false
 myFunction('madam')===true
 
-Created on Fri May 1 11:06:40AM 2020
+Created on Sat May 2 7:32:06PM 2020
 
 @author: Oluwayelu Ifeoluwa
 */
